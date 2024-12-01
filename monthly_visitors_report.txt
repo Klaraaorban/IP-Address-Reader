@@ -1,0 +1,29 @@
+Month: 2024-02
+Total unique visitors: 1647
+
+Month: 2024-03
+Total unique visitors: 1385
+
+Month: 2024-04
+Total unique visitors: 1290
+
+Month: 2024-05
+Total unique visitors: 1797
+
+Month: 2024-06
+Total unique visitors: 1345
+
+Month: 2024-07
+Total unique visitors: 1250
+
+Month: 2024-08
+Total unique visitors: 1293
+
+Month: 2024-09
+Total unique visitors: 1462
+
+Month: 2024-10
+Total unique visitors: 1227
+
+Month: 2024-11
+Total unique visitors: 548
